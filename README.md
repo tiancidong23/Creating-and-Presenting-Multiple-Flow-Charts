@@ -21,7 +21,7 @@ This repository includes the following materials:
   * Decision Flow Chart
   * Swimlane Flow Chart
 
-* PDF file containing all diagrams (one chart per page)
+* PDF file containing all diagrams (all charts in one page)
 
 * YouTube presentation video:
   👉 https://youtu.be/YWvN2i57i9c
